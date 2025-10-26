@@ -8,12 +8,6 @@ I'm a master's student in microbiology at the University of New Hampshire, with 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnubash&logoColor=black)
 
-# Language Usage:
-![C++](https://img.shields.io/badge/C++-94.1%25-blue?style=flat-square)
-![CMake](https://img.shields.io/badge/CMake-3%25-grey?style=flat-square)
-![Lua](https://img.shields.io/badge/Lua-2.2%25-lightgrey?style=flat-square)
-![Shell](https://img.shields.io/badge/Shell-0.7%25-yellow?style=flat-square)
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aram2608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aram2608&theme=dark&hide_border=false)<br/>
