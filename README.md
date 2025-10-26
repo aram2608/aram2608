@@ -6,8 +6,8 @@ I'm a master's student in microbiology at the University of New Hampshire, with 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aram2608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -17,7 +17,7 @@ I'm a master's student in microbiology at the University of New Hampshire, with 
 # Reach Me
 
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
-[LinkedIn](www.linkedin.com/in/javier-arambula-rascon-a69758290)
+[](https://www.linkedin.com/in/javier-arambula-rascon-a69758290/)
 
 ---
 
