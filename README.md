@@ -16,8 +16,7 @@ I'm a master's student in microbiology at the University of New Hampshire, with 
 
 # Reach Me
 
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
-[LinkedIn](https://www.linkedin.com/in/javier-arambula-rascon-a69758290/)
+[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&link=https://www.linkedin.com/in/javier-arambula-rascon-a69758290/)](https://www.linkedin.com/in/javier-arambula-rascon-a69758290/)
 
 ---
 
